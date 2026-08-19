@@ -1,0 +1,45 @@
+> statusHV
+readDAC=24075.0
+Bias voltage >> 50.11 V
+readDAC=131.0
+Bias current >> 4.77 uA
+> read 10000 summer001
+Save as data/summer001.dat
+enter DAQ MODE
+100% [==============================================================>] 10000 526event/s Time: 00:00:19
+exit DAQ MODE
+TimeWIndow: 4095
+> statusHV
+readDAC=24075.0
+Bias voltage >> 50.11 V
+readDAC=129.0
+Bias current >> 4.70 uA
+> read 10000 summer002
+Save as data/summer002.dat
+enter DAQ MODE
+100% [==============================================================>] 10000 526event/s Time: 00:00:19
+exit DAQ MODE
+TimeWIndow: 4095
+> statusHV
+readDAC=24075.0
+Bias voltage >> 50.11 V
+readDAC=131.0
+Bias current >> 4.77 uA
+> read 10000 summer003
+Save as data/summer003.dat
+enter DAQ MODE
+100% [==============================================================>] 10000 526event/s Time: 00:00:19
+exit DAQ MODE
+TimeWIndow: 4095
+> statusHV
+readDAC=24075.0
+Bias voltage >> 50.11 V
+readDAC=129.0
+Bias current >> 4.70 uA
+> read 10000 summer004
+Save as data/summer004.dat
+enter DAQ MODE
+100% [==============================================================>] 10000 526event/s Time: 00:00:19
+exit DAQ MODE
+TimeWIndow: 4095
+>
